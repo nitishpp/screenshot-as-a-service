@@ -19,7 +19,7 @@ Express server listening on port 3000
 
 ## Usage
 
-For a quick test with the command line, type:
+For a quick test with the command line:
 
 ```sh
 $ curl http://localhost:3000/?url=www.google.com > google.png
